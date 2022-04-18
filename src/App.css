@@ -115,3 +115,26 @@
 .green {
   color: green;
 }
+
+@media (max-width: 600px) {
+
+
+  .coin-row {
+    flex-direction: column;
+    width: 80vw;
+    height: 100%;
+    align-items: left;
+    align-content: right;
+  }
+
+  .coin-data {
+    flex-direction: column;
+    align-items: left;
+    align-content: right;
+  }
+
+  p {
+    text-align: left;
+    margin: 5px 0;
+  }
+}
