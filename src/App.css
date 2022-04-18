@@ -91,22 +91,21 @@
 }
 
 .coin-price {
-  width: 110px;
-  text-align: center;
+  width: 100px;
 }
 
 .coin-volume {
-  width: 155px;
+  width: 200px;
 
 }
 
 .coin-marketcap {
-  width: 230px
+  width: 240px
 }
 
 
 .coin-percent {
-  width: 100%;
+  width: 80px;
 }
 
 .red {
